@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I👋 am Ritesh Prajapati...
 
 # 💫 About Me:
 🔭 I’m currently working on ML & DL projects.<br>🌱 I’m currently learning Data Science, Computer Vision.<br>💬 Ask me about DataScience, ML, DL, Web dev, Meta Verse.
